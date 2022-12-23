@@ -1,0 +1,10 @@
+public class Main{
+    public static void main(string args[])
+    {
+        Scanner sc=new Scanner(System.in);
+        int a=in.nextInt();
+        int b=sc.nextInt();
+        int c=(a+b);    
+        Systemout.println(c);
+        }
+}
